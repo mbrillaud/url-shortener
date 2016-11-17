@@ -1,0 +1,42 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding-top: 50px;
+    text-align: center;
+}
+h1,
+form,
+.btn{
+    font-family: arial, sans-serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    text-align: center;
+}
+input,
+.btn {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+input,
+a {
+    margin-bottom: 10px;
+}
+.btn {
+    padding: 5px;
+    border: none;
+    border-radius: 0;
+    font-size: 10px;
+    text-transform: uppercase;
+    background-color: #d35400;
+    color: white;
+}
+a {
+    display: block;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+    color: #d35400;
+}
